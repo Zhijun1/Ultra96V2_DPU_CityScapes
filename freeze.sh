@@ -1,3 +1,5 @@
+#!/bin/bash
+
 MODEL_PATH=./pre_trained/unet_model
 OUTPUT_NODE="conv2d_13/BiasAdd"
 
